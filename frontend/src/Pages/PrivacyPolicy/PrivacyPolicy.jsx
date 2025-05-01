@@ -93,7 +93,7 @@ const PrivacyPolicy = () => {
           <h2>7. Contact Us</h2>
           <p>
             <strong>Email:</strong> <a href="goelmewewale@gmail.com" className="highlight">info@goelmewewala.com</a><br />
-            <strong>Phone:</strong> +91-9953843002<br />
+            <strong>Phone:</strong> +91-8283863884<br />
             <strong>Address:</strong> Shop.141 Sec 24, Pocket 11  Rohini  Delhi.
           </p>
 

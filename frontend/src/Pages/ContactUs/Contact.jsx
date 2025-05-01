@@ -131,7 +131,7 @@ const Contact = () => {
                         <b>Telephone</b>
                       </h5>
                     </div>
-                    <a href="tel:+91 9953843002" className="contact-link">
+                    <a href="tel:+91 8283863884" className="contact-link">
                       +91 8283863884
                     </a>
                   </div>
@@ -239,7 +239,7 @@ const Contact = () => {
       </section>
       <section className="maps">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2765.9079054964377!2d77.14475329999999!3d28.7035767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03d46919ea3f%3A0xaa6401ab18b40e9b!2sKP-135%2C%20Block%20KP%2C%20Poorvi%20Pitampura%2C%20Pitampura%2C%20Delhi%2C%20110034!5e1!3m2!1sen!2sin!4v1733990640149!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3432.166065476787!2d76.83366579678957!3d30.657451900000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390f9557b45217c3%3A0x779552907a07d370!2sGoyat%20trading%20company!5e0!3m2!1sen!2sin!4v1746078442957!5m2!1sen!2sin"
           style={{ border: "0", width: "100%", height: "450px" }}
           allowfullscreen=""
           loading="lazy"

@@ -23,7 +23,7 @@ const Footer = () => {
           <div className="footer-section">
             {/* <h4>About Us</h4> */}
             <div>
-              <img className="w-50 mb-3" src={logo} alt="" />
+              <img className="w-50 mb-3" src={logo} alt="" style={{background : "lightgray" , padding:"5px"}} />
             </div>
             <p>
               Discover the best deals and quality products at our store. We

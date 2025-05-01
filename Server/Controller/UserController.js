@@ -27,7 +27,7 @@ const getWelcomeEmailTemplate = (name) => `
             <tr>
                 <td style="padding: 20px;">
                     <p style="color: #555555; font-size: 14px; line-height: 1.5; margin: 0;">
-                        If you have any questions, feel free to contact us at <strong>9873745454</strong>.
+                        If you have any questions, feel free to contact us at <strong>8283863884</strong>.
                     </p>
                     <p style="color: #555555; font-size: 14px; line-height: 1.5; margin: 0; margin-top: 10px;">
                         Best regards,<br>

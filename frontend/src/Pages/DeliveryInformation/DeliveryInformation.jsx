@@ -100,7 +100,7 @@ const DeliveryInformation = () => {
 
           <h2>11. Contact Us</h2>
           <p>
-            📞 Phone: +91-9953843002 <br />
+            📞 Phone: +91-8283863884 <br />
             📧 Email: goelmewewale@gmail.com <br />
             📍 Shop.141 Sec 24, Pocket 11  Rohini  Delhi.
           </p>

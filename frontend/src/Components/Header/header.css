@@ -314,8 +314,8 @@ body {
   }
 
   .logo {
-    width: 40%;
-    max-width: 120px;
+    width: 100%;
+    max-width: 130px;
   }
 
   .main-header .row .col-md-2 {

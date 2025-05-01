@@ -44,6 +44,7 @@
 }
 
 .productsPage {
+  margin-top: 7rem;
   padding: 1rem 0 2rem 0;
 }
 
@@ -54,12 +55,14 @@
 }
 
 .pruduct-spacing {
-  margin-bottom: 0rem;
+  margin-bottom: 7rem;
 }
 
 .product-top-spacing {
   margin-top: 0rem;
 }
+
+
 
 @media only screen and (max-width: 768px) {
   .pruduct-spacing {
