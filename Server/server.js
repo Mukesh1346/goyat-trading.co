@@ -38,7 +38,7 @@ const allowedOrigins = [
     'http://localhost:3002',  
 ];
 
-// CORS configuration
+// CORS configuration b
 const corsOptions = {
     origin: (origin, callback) => {
         // Allow requests with no origin (like mobile apps or curl requests)
@@ -52,7 +52,7 @@ const corsOptions = {
 };
 
 // Apply CORS options to the app
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.use(cookieParser());
 
